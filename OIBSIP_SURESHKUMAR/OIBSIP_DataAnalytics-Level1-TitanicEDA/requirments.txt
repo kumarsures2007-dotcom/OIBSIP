@@ -1,0 +1,133 @@
+# 🚢 Titanic Dataset - Exploratory Data Analysis (EDA)
+
+## 📌 Project Information
+
+**Project:** Exploratory Data Analysis (EDA) on Titanic Dataset
+
+This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to understand passenger demographics, survival patterns, and the factors that influenced survival.
+
+---
+
+# 🎯 Objectives
+
+- Load and inspect the dataset
+- Clean missing values
+- Perform descriptive statistical analysis
+- Analyze passenger demographics
+- Explore survival patterns
+- Visualize important relationships
+- Generate meaningful business/data insights
+
+---
+
+# 📂 Dataset Information
+
+**Dataset:** Titanic Dataset
+
+### Features
+
+| Column | Description |
+|---------|-------------|
+| PassengerId | Passenger ID |
+| Survived | Survival Status (0 = No, 1 = Yes) |
+| Pclass | Passenger Class |
+| Name | Passenger Name |
+| Sex | Gender |
+| Age | Age |
+| SibSp | Number of Siblings/Spouses |
+| Parch | Number of Parents/Children |
+| Ticket | Ticket Number |
+| Fare | Ticket Fare |
+| Embarked | Port of Embarkation |
+
+---
+
+# 🛠️ Technologies Used
+
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+---
+
+# 📊 Exploratory Data Analysis
+
+The following analyses were performed:
+
+- Dataset inspection
+- Missing value analysis
+- Data cleaning
+- Descriptive statistics
+- Survival analysis
+- Passenger class analysis
+- Gender-wise survival analysis
+- Age distribution
+- Fare distribution
+- Correlation heatmap
+- Additional visualizations
+
+---
+
+# 📈 Visualizations
+
+- Survival Count Plot
+- Passenger Class Distribution
+- Gender Distribution
+- Survival by Gender
+- Survival by Passenger Class
+- Age Distribution Histogram
+- Fare Distribution
+- Correlation Heatmap
+- Box Plot (Fare vs Passenger Class)
+
+---
+
+# 💡 Key Insights
+
+- Female passengers had a higher survival rate than male passengers.
+- First-class passengers were more likely to survive than second- and third-class passengers.
+- Most passengers traveled in third class.
+- Younger passengers had slightly better survival rates.
+- Ticket fare showed a positive relationship with survival, as higher-paying passengers generally had better survival chances.
+
+---
+
+
+
+# 📋 Requirements
+
+The project uses the following Python libraries:
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- jupyter
+
+---
+
+# 🎓 Learning Outcomes
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Statistical Analysis
+- Feature Understanding
+- Insight Generation
+
+---
+
+# 👨‍💻 Author
+
+**Suresh Kumar A**
+
+Data Analytics Intern
+
+---
+
+# 📜 License
+
+This project is created for educational and internship purposes.
